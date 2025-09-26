@@ -42,38 +42,38 @@ Its main data storage structures are:
 
 An example of what the structure would look like:
 
-BucketDatabase([
-  Brain([
-    Cluster([
-      Bucket(
-        [
+<br>BucketDatabase([</br>
+  <br>Brain([</br>
+    <br>Cluster([</br>
+      <br>Bucket([</br>
+        <br>[
           *** 3D Vertical Stacks ***
-          [   
-            [Astruct("Hello")],
-            [Astruct(12.5)],
-            [Astruct(19.289389)],
-            [Astruct("a")],
-            [Astruct(true)],
-            [Astruct(nullptr)],
-            [Astruct([1, 2, 3, 4])],
-            [Astruct({"name": "John", "age": 25, "other": {...}})]
-          ],
-          [   
-            [Astruct("World")],
-            [Astruct("other")],
-            [Astruct(false)],
-            [Astruct("empty")],
-            [Astruct(true)],
-            [Astruct((1, 2, 3, 4))],
-            [Astruct([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])],
-            [Astruct({"name": "John", "age": 25, "other": {...}})]
-          ],
+          <br>[   
+            <br>[Astruct("Hello")],</br>
+            <br>[Astruct(12.5)],</br>
+            <br>[Astruct(19.289389)],</br>
+            <br>[Astruct("a")],</br>
+            <br>[Astruct(true)],</br>
+            <br>[Astruct(nullptr)],</br>
+            <br>[Astruct([1, 2, 3, 4])],</br>
+            <br>[Astruct({"name": "John", "age": 25, "other": {...}})]
+          ],<br>
+          <br>[   
+            <br>[Astruct("World")],</br>
+            <br>[Astruct("other")],</br>
+            <br>[Astruct(false)],</br>
+            <br>[Astruct("empty")],</br>
+            <br>[Astruct(true)],</br>
+            <br>[Astruct((1, 2, 3, 4))],</br>
+            <br>[Astruct([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])],</br>
+            <br>[Astruct({"name": "John", "age": 25, "other": {...}})]</br>
+          ],</br>
           *** More Stacks ***
-          [   
-            ...
+          <br>[</br>
+            <p>...</p>
           ]
         ]
-      )
+      ])
     ])
   ])
 ])
