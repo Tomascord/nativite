@@ -1,0 +1,26 @@
+# ninja log v7
+23	1611	7806063205415546	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Terminal/terminal.cpp.obj	b1e58137e6a8051f
+35	1695	7806162893239317	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Brain/brain.cpp.obj	683ceaea190d3ed3
+41	1807	7806162893298880	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Cluster/cluster.cpp.obj	218e8fa527dfa18c
+34	1386	7806154786502340	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Tests/main.cpp.obj	a07d4ba29f3609ea
+1809	2006	7806162910978877	nativite.exe	46d11fcba03e6657
+14	1526	7806165655013692	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Brain/brain.cpp.obj	683ceaea190d3ed3
+1528	1707	7806165670153407	nativite.exe	46d11fcba03e6657
+22	1526	7806169269412846	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Tests/main.cpp.obj	a07d4ba29f3609ea
+31	1686	7806169469742952	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Brain/brain.cpp.obj	683ceaea190d3ed3
+37	1815	7806169469792955	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Cluster/cluster.cpp.obj	218e8fa527dfa18c
+1819	2016	7806169487619121	nativite.exe	46d11fcba03e6657
+32	1642	7806169972689375	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Brain/brain.cpp.obj	683ceaea190d3ed3
+38	1759	7806169972739241	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Cluster/cluster.cpp.obj	218e8fa527dfa18c
+1760	1935	7806169989959550	nativite.exe	46d11fcba03e6657
+21	1621	7806172126787450	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Tests/main.cpp.obj	a07d4ba29f3609ea
+11	1794	7806172126697402	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Brain/brain.cpp.obj	683ceaea190d3ed3
+17	1915	7806172126747650	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Cluster/cluster.cpp.obj	218e8fa527dfa18c
+1920	2103	7806172145778411	nativite.exe	46d11fcba03e6657
+14	1605	7806174802713872	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Brain/brain.cpp.obj	683ceaea190d3ed3
+19	1733	7806174802773473	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Cluster/cluster.cpp.obj	218e8fa527dfa18c
+1735	1919	7806174819929725	nativite.exe	46d11fcba03e6657
+24	1527	7806186339405506	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Tests/main.cpp.obj	a07d4ba29f3609ea
+14	1706	7806186339237254	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Brain/brain.cpp.obj	683ceaea190d3ed3
+20	1836	7806186339288038	CMakeFiles/nativite.dir/C_/Users/USUARIO/Documents/Nativite/Nativite/Engine/Cluster/cluster.cpp.obj	218e8fa527dfa18c
+1839	2033	7806186357488489	nativite.exe	46d11fcba03e6657

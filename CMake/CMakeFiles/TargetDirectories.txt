@@ -1,0 +1,3 @@
+C:/Users/USUARIO/Documents/Nativite/CMake/CMakeFiles/nativite.dir
+C:/Users/USUARIO/Documents/Nativite/CMake/CMakeFiles/edit_cache.dir
+C:/Users/USUARIO/Documents/Nativite/CMake/CMakeFiles/rebuild_cache.dir

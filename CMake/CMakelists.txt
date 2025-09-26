@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.16)
+
+project(<nativite-engine>)
+
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
+
+set(<FLAGS> <-Wall -Wextra -O3 -fsanitize=address>)
+file(GLOB_RECURSE CPP_FILES "../Nativite/*.cpp")
+file(GLOB MAIN "../Tests/main.cpp")
+
+add_compile_options(
+  ${FLAGS}
+)
+
+add_executable(
+  nativite
+  ${CPP_FILES}
+  ${MAIN}
+)
