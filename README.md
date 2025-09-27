@@ -89,15 +89,15 @@ would look like.
 
 The problems that bucket databases solve are:
 
-- Data access speed:
+- <br>Data access speed</br>:
   Since the most frequently used data is in the cache, instead of needlessly traversing the entire 3D vertical stack structure, which would be very slow, the cache is first searched, and if the data is found, it is returned. Otherwise, the buckets and clusters will need to be searched according to the suggested search algorithm.
 
-- Better parallelization than other database engines:
+- <br>Better parallelization than other database engines</br>:
   Since the clusters are not interconnected, it is more parallelizable than
   if they were connected, which can improve performance when searching all clusters
   at once with the TPS or Total-Path Search algorithm.
 
-- Neural networks could be saved and simulated:
+- <br>Neural networks could be saved and simulated</br>:
   Since buckets are 3D vertical stacks of data, buckets can be interconnected
   to connect neural network nodes and to model deep neural networks. Neural networks
   could also be stored in databases, not in RAM. A deep neural network can consume a lot of memory.
@@ -105,14 +105,14 @@ The problems that bucket databases solve are:
   is more space on the disk, which can be 256GB, 512GB, 1TB, 2TB, 4TB compared to RAM memory which can 
   be 8GB, 16GB, 32GB, 64GB
 
-- New search algorithms:
+- <br>New search algorithms</br>:
   Not only is there DFS and BFS, which have always existed, there is also Flow_M 
   (a heucaritic search in clusters recursively or by breadth) and TPS 
   (a total path search in all directions, although it is slower,
   it ensures a greater probability of finding data). The advantage of TPS is that it searches all
   the clusters at once, unlike DFS, which searches each bucket one by one.
 
-- Cache or terminals stored in CPU cache:
+- <br>Cache or terminals stored in CPU cache</br>:
   By storing the terminals or caches in the CPU cache, it is much faster to access the data
   than if it were in RAM memory. Accessing the CPU cache takes between 10 and 20 ns, while RAM
   memory can take between 50 and 100 ns to access, Although they are nanoseconds, in many accesses those nanoseconds can be converted into microseconds and those microseconds into milliseconds
