@@ -67,7 +67,7 @@ An example of what the structure would look like:
               [Astruct(true)],
               [Astruct((1, 2, 3, 4))],
               [Astruct([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])],
-              [Astruct({"name": "John", "age": 25, "other": {...}})]
+              [Astruct({"user": {"name": "Maria", "age": 37, "metadata": [{...}]}}})]
             ],
             *** More Stacks ***
             [
@@ -129,7 +129,7 @@ does is a permissive license whose conditions require the preservation of copyri
 to make a fork of Nativite you have to ask the author's permission.
 
 ### Extra
-- If you want to read more about Apache License 2.0, read (LICENSE.md)[./LICENSE.md]
+- If you want to read more about Apache License 2.0, read [LICENSE.md](./LICENSE.md)
 
 ## Thanks
 
